@@ -28,3 +28,5 @@ Projects todo list (Markup)
 ☐ Continuous SWOT analysis and Risk Management
 
 ☐ Implement user monetization & retention strategy
+
+☐ Create realistic expectations for growth correlations and projections
