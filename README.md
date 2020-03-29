@@ -25,8 +25,8 @@ Projects todo list (Markup)
 
 ☐ Establish a Total Quality Management System
 
-☐ Continuous SWOT analysis and Risk Management
-
 ☐ Implement user monetization & retention strategy
+
+☐ Continuous SWOT analysis and Risk Management
 
 ☐ Create realistic expectations for growth correlations and projections
