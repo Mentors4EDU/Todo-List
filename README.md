@@ -7,19 +7,19 @@ Projects todo list (Markup)
 
 ☐ Establish "Social Proof"
 
-☐ Create go-to market strategy
-
 ☐ Build analytical case studies
+
+☐ Create go-to market strategy
 
 ☐ Establish mission plans & KPIs
 
 ☐ Establish Competitive Advantage
 
-☐ Seek out management consulting help
-
 ☐ Implement user acquistion strategies
 
 ☐ Prove out your series of hypothesises
+
+☐ Seek out management consulting help
 
 ☐ Coninuous consumer discovery + A/B Testing
 
