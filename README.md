@@ -13,7 +13,7 @@ Projects todo list (Markup)
 
 ☐ Establish mission plans & KPIs
 
-~~☐ Establish Competitive Advantage
+~~☐ Establish Competitive Advantage~~
 
 ☐ Implement user acquistion strategies
 
