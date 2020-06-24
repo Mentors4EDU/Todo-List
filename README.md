@@ -19,7 +19,7 @@ Projects todo list (Markup)
 
 ☐ Prove out your series of hypothesises
 
-☐ Seek out management consulting help
+~~🗹 Seek out management consulting help~~
 
 ☐ Coninuous consumer discovery + A/B Testing
 
