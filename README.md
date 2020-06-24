@@ -7,7 +7,7 @@ Projects todo list (Markup)
 
 ☐ Establish "Social Proof"
 
-☐ Build analytical case studies
+~~🗹 Build analytical case studies~~
 
 ☐ Create go-to market strategy
 
