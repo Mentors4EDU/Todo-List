@@ -17,7 +17,7 @@ Projects todo list (Markup)
 
 ☐ Implement user acquistion strategies
 
-☐ Prove out your series of hypothesises
+~~🗹 Prove out your series of hypothesises~~
 
 ~~🗹 Seek out management consulting help~~
 
