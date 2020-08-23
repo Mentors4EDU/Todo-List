@@ -47,7 +47,10 @@
 ##### (Working w/ Jupyter)
 
 **Today's Progress**: Started getting more used to Embeded Jupyter  
+🖋️ Finally started a language.yml for LonScript, was small but had to be done.  
 💻 Worked with an interactive IPython Notebook Environment  
 📊 Looked over some data view explorers and demos
 
 **Thoughts**: Started getting more used to an initial dev pace for this project. *Sidenote: May need to start doing some "sidechain development", also Lonero's ReadtheDocs likely needs expanding. More info needing on Hardware, Peertop, Architecture, Protocol, Masternode Concensus, etc. Projects that have been on hold for a while in relation to other things need to be revamped. May also start doing some stuff w/ Matcha Notebook (Papers).*
+
+**Link to work:** [language.yml](https://raw.githubusercontent.com/Lonero-Team/LonScript/master/language.yml)
