@@ -51,7 +51,8 @@
 🗒️ Created a "draft notebooks page" + nbviewer experimentation  
 💻 Worked with an interactive IPython Notebook Environment  
 📊 Looked over some data view explorers and demos  
-📄 Experimented with ipynb markup for a bit
+📄 Experimented with ipynb markup for a bit  
+📋 Working on "draft" PineScript page
 
 **Thoughts**: Started getting more used to an initial dev pace for this project. *Sidenote: May need to start doing some "sidechain development", also Lonero's ReadtheDocs likely needs expanding. More info needing on Hardware, Peertop, Architecture, Protocol, Masternode Concensus, etc. Projects that have been on hold for a while in relation to other things need to be revamped. May also start doing some stuff w/ Matcha Notebook (Papers).*
 
