@@ -52,8 +52,13 @@
 💻 Worked with an interactive IPython Notebook Environment  
 📊 Looked over some data view explorers and demos  
 📄 Experimented with ipynb markup for a bit  
+⌨️ Worked on some C problems for fun  
 📋 Working on "draft" PineScript page
 
 **Thoughts**: Started getting more used to an initial dev pace for this project. *Sidenote: May need to start doing some "sidechain development", also Lonero's ReadtheDocs likely needs expanding. More info needing on Hardware, Peertop, Architecture, Protocol, Masternode Concensus, etc. Projects that have been on hold for a while in relation to other things need to be revamped. May also start doing some stuff w/ Matcha Notebook (Papers).*
 
-**Link to work:** [language.yml](https://raw.githubusercontent.com/Lonero-Team/LonScript/master/language.yml)
+**Link(s) to work**
+1. [Problem 1](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/MD1.c)
+2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/MD2.c)
+3. [Problem 3](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/MD3.c)
+4. [language.yml](https://raw.githubusercontent.com/Lonero-Team/LonScript/master/language.yml)
