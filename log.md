@@ -62,3 +62,11 @@
 2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/MD2.c)
 3. [Problem 3](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/MD3.c)
 4. [language.yml](https://raw.githubusercontent.com/Lonero-Team/LonScript/master/language.yml)
+
+### Day 6: August 24, 2020 (Day 6)
+##### (Long day, basic work)
+
+**Today's Progress**: Updated some dev dependencies  
+🔘 Created some "buttons"
+
+**Thoughts**: Long day, had much on my plate before I could get alot done really.
