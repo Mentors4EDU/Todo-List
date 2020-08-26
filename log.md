@@ -70,3 +70,10 @@
 🔘 Created some "buttons"
 
 **Thoughts**: Long day, had much on my plate before I could get alot done really.
+
+### Day 7: August 25, 2020 (Day 7)
+##### (Basic Work)
+
+**Today's Progress**: Updated some dev dependencies  
+
+**Thoughts**: Today was heavy, but things are progressing nicely
