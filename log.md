@@ -85,3 +85,6 @@
 📖 Researched Algowins
 
 **Thoughts**: At least some progress for the day.
+
+### Day 9: August 27, 2020 (Day 9)
+##### (Research day)
