@@ -77,3 +77,11 @@
 **Today's Progress**: Updated some dev dependencies  
 
 **Thoughts**: Today was heavy, but things are progressing nicely
+
+### Day 8: August 26, 2020 (Day 8)
+##### (Another busy day)
+
+**Today's Progress**: Updated some dev dependencies including D3 to v6  
+📖 Researched Algowins
+
+**Thoughts**: At least some progress for the day.
