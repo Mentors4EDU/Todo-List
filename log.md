@@ -88,3 +88,7 @@
 
 ### Day 9: August 27, 2020 (Day 9)
 ##### (Research day)
+
+**Today's Progress**: Done some critical research in relation to a startup project.
+
+**Thoughts**: Need to get alot of stuff done on my list (as I already known) and update some of my projects.
