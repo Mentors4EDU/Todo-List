@@ -99,3 +99,12 @@
 **Today's Progress**: Updated and patched some dev dependencies
 
 **Thoughts**: Need to get something crticial out of the way for "a startup".
+
+### Day 11: August 29, 2020 (Day 11)
+##### (Data Research day)
+
+**Today's Progress**: Updated some dev dependencies  
+🎫 Research datasets on Dataset Search and Figshare  
+➕ Updated Jupyer Notebook Draft
+
+**Thoughts**: Need to push myself further on getting stuff done. These days are critical. Neighbors next door were partying all night and unfortunately got little to no sleep. Wanting stuff to start taking off and prioritizing keeping things and habits more oganized. Busy these days.
