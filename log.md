@@ -92,3 +92,10 @@
 **Today's Progress**: Done some critical research in relation to a startup project.
 
 **Thoughts**: Need to get alot of stuff done on my list (as I already known) and update some of my projects.
+
+### Day 10: August 28, 2020 (Day 10)
+##### (Startup day)
+
+**Today's Progress**: Updated and patched some dev dependencies
+
+**Thoughts**: Need to get something crticial out of the way for "a startup".
