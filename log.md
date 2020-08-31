@@ -122,3 +122,6 @@
 **Link(s) to work**
 1. [Problem 1](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/8A.c)  
 2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/8B.c)
+
+### Day 13: August 31, 2020 (Day 13)
+##### (Working on some things)
