@@ -108,3 +108,17 @@
 ➕ Updated Jupyer Notebook Draft
 
 **Thoughts**: Need to push myself further on getting stuff done. These days are critical. Neighbors next door were partying all night and unfortunately got little to no sleep. Wanting stuff to start taking off and prioritizing keeping things and habits more oganized. Busy these days.
+
+### Day 12: August 30, 2020 (Day 12)
+##### (Regular day)
+
+**Today's Progress**: Updated some dev dependencies  
+➖ Messed around w/ Jupyter Notebook Draft  
+❓ Studied Data structures  
+✍️ Did two C Problems
+
+**Thoughts**: Just a typical day today
+
+**Link(s) to work**
+1. [Problem 1](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/8A.c)  
+2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/8B.c)
