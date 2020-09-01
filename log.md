@@ -129,3 +129,6 @@
 **Today's Progress**: Finally got a Jupyer Notebook draft out of the way, and made a PineScript page
 
 **Thoughts**: Still more stuff to do, but glad I got this out of the way + some "significant" milestones today :)
+
+### Day 14: September 1, 2020 (Day 14)
+##### (New month to kick things off)
