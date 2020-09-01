@@ -125,3 +125,7 @@
 
 ### Day 13: August 31, 2020 (Day 13)
 ##### (Working on some things)
+
+**Today's Progress**: Finally got a Jupyer Notebook draft out of the way, and made a PineScript page
+
+**Thoughts**: Still more stuff to do, but glad I got this out of the way + some "significant" milestones today :)
