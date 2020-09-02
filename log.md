@@ -132,3 +132,7 @@
 
 ### Day 14: September 1, 2020 (Day 14)
 ##### (New month to kick things off)
+
+**Today's Progress**: Updated some dev depencies. Had a decent day.
+
+**Thoughts**: Had tons of work today, so it was hectic. Got decent amount of stuff work-wise done. Want to start kicking up my productivity though updating software + pushing for more code.
