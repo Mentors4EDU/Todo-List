@@ -136,3 +136,10 @@
 **Today's Progress**: Updated some dev depencies. Had a decent day.
 
 **Thoughts**: Had tons of work today, so it was hectic. Got decent amount of stuff work-wise done. Want to start kicking up my productivity though updating software + pushing for more code.
+
+### Day 15: September 2, 2020 (Day 15)
+##### (Crossing stuff off)
+
+**Today's Progress**:
+
+**Thoughts**:
