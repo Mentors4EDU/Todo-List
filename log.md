@@ -140,6 +140,6 @@
 ### Day 15: September 2, 2020 (Day 15)
 ##### (Crossing stuff off)
 
-**Today's Progress**:
+**Today's Progress**: Updated some dev depencencies + done some basic web design work for something off my todo list
 
-**Thoughts**:
+**Thoughts**: Still have alot more work to do. Need to keep up the "productivity train".
