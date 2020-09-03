@@ -143,3 +143,5 @@
 **Today's Progress**: Updated some dev depencencies + done some basic web design work for something off my todo list
 
 **Thoughts**: Still have alot more work to do. Need to keep up the "productivity train".
+
+### Day 16: September 3, 2020 (Day 16)
