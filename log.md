@@ -133,21 +133,26 @@
 ### Day 14: September 1, 2020 (Day 14)
 ##### (New month to kick things off)
 
-**Today's Progress**: Updated some dev depencies. Had a decent day.
+**Today's Progress**: Updated some dev dependencies. Had a decent day.
 
 **Thoughts**: Had tons of work today, so it was hectic. Got decent amount of stuff work-wise done. Want to start kicking up my productivity though updating software + pushing for more code.
 
 ### Day 15: September 2, 2020 (Day 15)
 ##### (Crossing stuff off)
 
-**Today's Progress**: Updated some dev depencencies + done some basic web design work for something off my todo list
+**Today's Progress**: Updated some dev dependencies + done some basic web design work for something off my todo list
 
 **Thoughts**: Still have alot more work to do. Need to keep up the "productivity train".
 
 ### Day 16: September 3, 2020 (Day 16)
 
-**Today's Progress**: Uploaded the [Jekflix](https://github.com/thiagorossener/jekflix-template) theme and setup hosting for something + crossed a few important things off my list.
+**Today's Progress**: Updated some dev dependencies  
+📥 Uploaded the [Jekflix](https://github.com/thiagorossener/jekflix-template) theme and setup hosting for something  
+🗂️ Crossed a few important things from my todo list  
+↖️ Created CNAME for [EtherStone](etherstone.org) Website
 
 **Thoughts**: Today was quite hectic, but I got some good progress done at least.
 
-**Link to work:** [Pushed Template](https://github.com/Mentors4EDU/St.George-Project/commit/3f23d3c6df76dd6e325498ac756a1635e5976f48)
+**Link(s) to work**
+1. [Pushed Template](https://github.com/Mentors4EDU/St.George-Project/commit/3f23d3c6df76dd6e325498ac756a1635e5976f48)
+2. [EtherStone CNAME](https://github.com/Mentors4EDU/Ether-Stone-Repo/commit/1a9e454307e9a204f129199a20d9e0b6f9836c8f)
