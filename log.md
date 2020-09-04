@@ -145,3 +145,9 @@
 **Thoughts**: Still have alot more work to do. Need to keep up the "productivity train".
 
 ### Day 16: September 3, 2020 (Day 16)
+
+**Today's Progress**: Uploaded the [Jekflix](https://github.com/thiagorossener/jekflix-template) theme and setup hosting for something + crossed a few important things off my list.
+
+**Thoughts**: Today was quite hectic, but I got some good progress done at least.
+
+**Link to work:** [Pushed Template](https://github.com/Mentors4EDU/St.George-Project/commit/3f23d3c6df76dd6e325498ac756a1635e5976f48)
