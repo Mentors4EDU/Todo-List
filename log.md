@@ -156,3 +156,9 @@
 **Link(s) to work**
 1. [Pushed Template](https://github.com/Mentors4EDU/St.George-Project/commit/3f23d3c6df76dd6e325498ac756a1635e5976f48)
 2. [EtherStone CNAME](https://github.com/Mentors4EDU/Ether-Stone-Repo/commit/1a9e454307e9a204f129199a20d9e0b6f9836c8f)
+
+### Day 17: September 4, 2020 (Day 17)
+
+**Today's Progress**: Updated some dev dependencies from various projects
+
+**Thoughts**: Today was quite hectic times two, but I got some work done at least. Need to get way more done.
