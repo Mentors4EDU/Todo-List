@@ -162,3 +162,15 @@
 **Today's Progress**: Updated some dev dependencies from various projects
 
 **Thoughts**: Today was quite hectic times two, but I got some work done at least. Need to get way more done.
+
+### Day 18: September 5, 2020 (Day 18)
+
+**Today's Progress**: Updated some dev dependencies.
+
+**Thoughts**: Typical day, not  much done though due to how hectic things were.
+
+### Day 18: September 6, 2020 (Day 18)
+
+**Today's Progress**: Did some research.
+
+**Thoughts**: Was working on some research for various different topics and studying algorithms.
