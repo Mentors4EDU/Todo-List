@@ -169,7 +169,7 @@
 
 **Thoughts**: Typical day, not  much done though due to how hectic things were.
 
-### Day 18: September 6, 2020 (Day 18)
+### Day 19: September 6, 2020 (Day 19)
 
 **Today's Progress**: Did some research.
 
