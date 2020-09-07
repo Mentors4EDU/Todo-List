@@ -171,6 +171,8 @@
 
 ### Day 19: September 6, 2020 (Day 19)
 
-**Today's Progress**: Did some research.
+**Today's Progress**: Did some research.  
+⌛ Studied Complete theory in logic  
+⁉️ Worked on some C Problems
 
 **Thoughts**: Was working on some research for various different topics and studying algorithms.
