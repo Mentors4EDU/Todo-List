@@ -145,6 +145,7 @@
 **Thoughts**: Still have alot more work to do. Need to keep up the "productivity train".
 
 ### Day 16: September 3, 2020 (Day 16)
+##### (Website day "sort of")
 
 **Today's Progress**: Updated some dev dependencies  
 📥 Uploaded the [Jekflix](https://github.com/thiagorossener/jekflix-template) theme and setup hosting for something  
@@ -158,18 +159,21 @@
 2. [EtherStone CNAME](https://github.com/Mentors4EDU/Ether-Stone-Repo/commit/1a9e454307e9a204f129199a20d9e0b6f9836c8f)
 
 ### Day 17: September 4, 2020 (Day 17)
+##### (Another basic day)
 
 **Today's Progress**: Updated some dev dependencies from various projects
 
 **Thoughts**: Today was quite hectic times two, but I got some work done at least. Need to get way more done.
 
 ### Day 18: September 5, 2020 (Day 18)
+##### (Dev dependency updates)
 
 **Today's Progress**: Updated some dev dependencies.
 
 **Thoughts**: Typical day, not  much done though due to how hectic things were.
 
 ### Day 19: September 6, 2020 (Day 19)
+##### (Problems day)
 
 **Today's Progress**: Did some research.  
 ⌛ Studied Complete theory in logic  
@@ -180,3 +184,11 @@
 2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/9B2A.c)
 
 **Thoughts**: Was working on some research for various different topics and studying algorithms.
+
+### Day 20: September 7, 2020 (Day 20)
+##### (Some more research)
+
+**Today's Progress**: Started some papers on the Matcha Notebook 
+📕 Formulated ten critical research topics
+
+**Thoughts**: Today was a computational research day.
