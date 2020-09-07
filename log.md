@@ -175,4 +175,8 @@
 ⌛ Studied Complete theory in logic  
 ⁉️ Worked on some C Problems
 
+**Link(s) to work**
+1. [Problem 1](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/9B1.c)
+2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/9B2A.c)
+
 **Thoughts**: Was working on some research for various different topics and studying algorithms.
