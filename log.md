@@ -188,7 +188,7 @@
 ### Day 20: September 7, 2020 (Day 20)
 ##### (Some more research)
 
-**Today's Progress**: Started some papers on the Matcha Notebook 
+**Today's Progress**: Started some papers on the Matcha Notebook  
 📕 Formulated ten critical research topics
 
 **Thoughts**: Today was a computational research day.
