@@ -192,3 +192,11 @@
 📕 Formulated ten critical research topics
 
 **Thoughts**: Today was a computational research day.
+
+### Day 21: September 8, 2020 (Day 21)
+##### (Some further research)
+
+**Today's Progress**: Updated dev dependencies  
+🖺 Wrote ten entire abstracts
+
+**Thoughts**: Got some work done for the day.
