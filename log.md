@@ -197,6 +197,6 @@
 ##### (Some further research)
 
 **Today's Progress**: Updated dev dependencies  
-🖺 Wrote ten entire abstracts + started layout
+🖺 Wrote ten entire abstracts + started layouts
 
 **Thoughts**: Got some work done for the day.
