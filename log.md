@@ -197,6 +197,7 @@
 ##### (Some further research)
 
 **Today's Progress**: Updated dev dependencies  
-🖺 Wrote ten entire abstracts + started layouts
+🖺 Wrote ten entire abstracts + started layouts  
+✅ Going to start updating Lonero's ReadtheDocs
 
 **Thoughts**: Got some work done for the day.
