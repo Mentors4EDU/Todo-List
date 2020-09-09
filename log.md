@@ -201,3 +201,10 @@
 ✅ Going to start updating Lonero's ReadtheDocs
 
 **Thoughts**: Got some work done for the day.
+
+### Day 22: September 9, 2020 (Day 22)
+##### (Other work today)
+
+**Today's Progress**: Updated Lonero's ReadtheDocs further
+
+**Thoughts**: Basic work done for the day.
