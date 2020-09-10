@@ -208,3 +208,11 @@
 **Today's Progress**: Updated Lonero's ReadtheDocs further
 
 **Thoughts**: Basic work done for the day.
+
+### Day 23: September 10, 2020 (Day 23)
+##### (Just doing some things)
+
+**Today's Progress**: Updated some dev dependencies  
+🔥 Updated Lonero's ReadtheDocs further (again)
+
+**Thoughts**: I been getting some stuff out of the way, so that is good.
