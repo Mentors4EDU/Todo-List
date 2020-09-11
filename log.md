@@ -215,4 +215,4 @@
 **Today's Progress**: Updated some dev dependencies  
 🔥 Updated Lonero's ReadtheDocs further (again)
 
-**Thoughts**: I been getting some stuff out of the way, so that is good. Also, I finally figured out how to make a "Table of Contents" on Spinx. That took longer then it needed to.
+**Thoughts**: I been getting some stuff out of the way, so that is good. Also, I finally figured out how to make a "Table of Contents" on Sphinx. That took longer then it needed to.
