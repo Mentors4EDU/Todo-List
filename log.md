@@ -216,3 +216,10 @@
 🔥 Updated Lonero's ReadtheDocs further (again)
 
 **Thoughts**: I been getting some stuff out of the way, so that is good. Also, I finally figured out how to make a "Table of Contents" on Sphinx. That took longer then it needed to.
+
+### Day 24: September 11, 2020 (Day 24)
+##### (Basic stuff done)
+
+**Today's Progress**: Updated dev dependencies  
+
+**Thoughts**: Today has been quite hectic with alot of busy work. Didn't get to do much. It was also a holiday, *Happy Feast of Nyrouz!*, that being said, excited to get back on the progress train.
