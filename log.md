@@ -223,3 +223,10 @@
 **Today's Progress**: Updated dev dependencies  
 
 **Thoughts**: Today has been quite hectic with alot of busy work. Didn't get to do much. It was also a holiday, *Happy Feast of Nyrouz!*, that being said, excited to get back on the progress train.
+
+### Day 25: September 12, 2020 (Day 25)
+##### (Tiring day again)
+
+**Today's Progress**: Updated dev dependencies  
+
+**Thoughts** Didn't get much done given the day was quite hectic.
