@@ -229,4 +229,4 @@
 
 **Today's Progress**: Updated some dev dependencies  
 
-**Thoughts** Didn't get much done given the day was quite hectic.
+**Thoughts** Didn't get much done given the day was quite hectic. I hope to kick things up a notch soon.
