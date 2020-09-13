@@ -227,6 +227,6 @@
 ### Day 25: September 12, 2020 (Day 25)
 ##### (Tiring day again)
 
-**Today's Progress**: Updated dev dependencies  
+**Today's Progress**: Updated some dev dependencies  
 
 **Thoughts** Didn't get much done given the day was quite hectic.
