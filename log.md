@@ -230,3 +230,14 @@
 **Today's Progress**: Updated some dev dependencies  
 
 **Thoughts** Didn't get much done given the day was quite hectic. I hope to kick things up a notch soon.
+
+
+### Day 26: September 13, 2020 (Day 26)
+##### (Picking up some pace)
+
+**Today's Progress**: Updated dev dependencies  
+📌 Starting updating the Lonero ReadtheDocs again  
+✏️ Working on some data structure problems  
+📂 Worked on the papers I have been doing
+
+**Thoughts** Started picking up pace, but still much more work to be done. Many DISTRACTING environments, and need some quiet places to focus. Working hard.
