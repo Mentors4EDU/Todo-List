@@ -238,6 +238,9 @@
 **Today's Progress**: Updated dev dependencies  
 📌 Starting updating the Lonero ReadtheDocs again  
 ✏️ Working on some data structure problems  
-📂 Worked on the papers I have been doing
+📂 Worked on the papers I have been doing  
+🎨 Created an UML
 
 **Thoughts** Started picking up pace, but still much more work to be done. Many DISTRACTING environments, and need some quiet places to focus. Working hard.
+
+**Link to work:** [UML Example](https://raw.githubusercontent.com/Mentors4EDU/Images/master/DfarmUML.png)
