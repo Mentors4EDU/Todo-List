@@ -244,3 +244,10 @@
 **Thoughts** Started picking up pace, but still much more work to be done. Many DISTRACTING environments, and need some quiet places to focus. Working hard.
 
 **Link to work:** [UML Example](https://raw.githubusercontent.com/Mentors4EDU/Images/master/DfarmUML.png)
+
+### Day 27: September 14, 2020 (Day 27)
+##### (Picking up more pace)
+
+**Today's Progress**: Updated dev dependencies + minor progress on Lonero's ReadtheDocs.
+
+**Thoughts** Today was insane, quite hectic. I never get a break. I do plan however, to start picking up more work done.
