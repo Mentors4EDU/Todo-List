@@ -251,3 +251,10 @@
 **Today's Progress**: Updated dev dependencies + minor progress on Lonero's ReadtheDocs.
 
 **Thoughts** Today was insane, quite hectic. I never get a break. I do plan however, to start picking up more work done.
+
+### Day 28: September 15, 2020 (Day 28)
+##### (Bad day)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts** Today was quite hectic, had sort of a bad day. Really am trying to push progress though and keeping myself in pace. Have some exciting stuff hopefully coming!
