@@ -259,7 +259,7 @@
 
 **Thoughts** Today was quite hectic, had sort of a bad day. Really am trying to push progress though and keeping myself in pace. Have some exciting stuff hopefully coming!
 
-### Day 29: September 19, 2020 (Day 29)
+### Day 29: September 16, 2020 (Day 29)
 ##### (One of those days)
 
 **Today's Progress**: Updated dev dependencies
