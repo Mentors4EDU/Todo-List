@@ -265,3 +265,10 @@
 **Today's Progress**: Updated dev dependencies + updated some of a project's naming conventions
 
 **Thoughts** Hectic day again. Seemed brutal and long, and the morning was the highlight of my day. "Work" was hectic. I have a plan to start getting back on the productivity train again.
+
+### Day 30: September 17, 2020 (Day 30)
+##### (Another seemingly long day)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts** Had alot going on today
