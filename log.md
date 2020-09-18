@@ -272,3 +272,10 @@
 **Today's Progress**: Updated dev dependencies
 
 **Thoughts** Had alot going on today
+
+### Day 31: September 18, 2020 (Day 31)
+##### (Day looking up)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts**
