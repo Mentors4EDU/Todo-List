@@ -280,14 +280,14 @@
 
 **Thoughts** Boring day, and had to do stuff on the side
 
-### Day 33: September 18, 2020 (Day 32)
+### Day 32: September 18, 2020 (Day 32)
 ##### (Day looking up)
 
 **Today's Progress**: Updated dev dependencies
 
 **Thoughts** Same as day prior
 
-### Day 32: September 18, 2020 (Day 33)
+### Day 33: September 18, 2020 (Day 33)
 ##### (Will start kicking up progress soon)
 
 **Today's Progress**: Updated dev dependencies + working on some programming problems
