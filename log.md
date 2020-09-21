@@ -278,4 +278,23 @@
 
 **Today's Progress**: Updated dev dependencies
 
-**Thoughts**
+**Thoughts** Boring day, and had to do stuff on the side
+
+### Day 33: September 18, 2020 (Day 32)
+##### (Day looking up)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts** Same as day prior
+
+### Day 32: September 18, 2020 (Day 33)
+##### (Will start kicking up progress soon)
+
+**Today's Progress**: Updated dev dependencies + working on some programming problems
+
+**Thoughts** Hope to pick up pace soon. Have alot going on.
+
+**Link(s) to work**
+1. [Problem 1](https://github.com/Mentors4EDU/C-Portfolio/blob/master/fnproject.cc)  
+2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/11A2.c)
+3. [Problem 3](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/11B1.c)
