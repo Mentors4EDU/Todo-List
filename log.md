@@ -298,3 +298,10 @@
 1. [Problem 1](https://github.com/Mentors4EDU/C-Portfolio/blob/master/fnproject.cc)  
 2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/11A2.c)
 3. [Problem 3](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/11B1.c)
+
+### Day 34: September 21, 2020 (Day 34)
+##### (So and so day...)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts** Hope to pick up some more pace soon
