@@ -305,3 +305,42 @@
 **Today's Progress**: Updated dev dependencies
 
 **Thoughts** Hope to pick up some more pace soon
+
+### Day 35: September 22, 2020 (Day 35)
+##### (Long day...)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts** Long day; had to work on important reports
+
+### Day 36: September 23, 2020 (Day 36)
+##### (Long day...)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts** Long day; due diligence day
+
+### Day 37: September 24, 2020 (Day 37)
+##### (Long day...)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts** Long day; busy work schedule
+
+### Day 38: September 25, 2020 (Day 38)
+##### (Long day...)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts** Long day
+
+### Day 39: September 26, 2020 (Day 39)
+##### (Update day)
+
+**Today's Progress**: Updated dev dependencies + Published dfarm package and released Decentralized Internet v5.3.4
+
+**Thoughts** Getting some progress done. A bit stressed, but pushing up productivity.
+
+**Link(s) to work**
+1. [dfarm](https://www.npmjs.com/package/dfarm)  
+2. [Version Update](https://www.npmjs.com/package/decentralized-internet/v/5.3.4)
