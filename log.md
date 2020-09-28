@@ -344,3 +344,14 @@
 **Link(s) to work**
 1. [dfarm](https://www.npmjs.com/package/dfarm)  
 2. [Version Update](https://www.npmjs.com/package/decentralized-internet/v/5.3.4)
+
+### Day 40: September 27, 2020 (Day 40)
+##### (Research day)
+
+**Today's Progress**: Worked on Lonero's ReadtheDocs + Wrote Alonzo Church Essay + Worked on some reasearch papers and studied data structures
+
+**Thoughts** Getting somewhat decent progress done
+
+**Link(s) to work**
+1. [Essay](https://hcommons.org/deposits/item/hc:32655/)  
+2. [ReadtheDocs Update](https://lonero.readthedocs.io/en/latest/Decentralized%20Internet%20Docs/Hardware%20Cryptography.html)
