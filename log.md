@@ -355,3 +355,15 @@
 **Link(s) to work**
 1. [Essay](https://hcommons.org/deposits/item/hc:32655/)  
 2. [ReadtheDocs Update](https://lonero.readthedocs.io/en/latest/Decentralized%20Internet%20Docs/Hardware%20Cryptography.html)
+
+### Day 41: September 28, 2020 (Day 41)
+##### (Worked on some things)
+
+**Today's Progress**: Worked on some basic programming problems.
+
+**Thoughts** Been quite busy lately.
+
+**Link(s) to work**
+1. [Problem 1](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/F1.c)  
+2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/F2.c)
+3. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/F3.c)
