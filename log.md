@@ -359,7 +359,9 @@
 ### Day 41: September 28, 2020 (Day 41)
 ##### (Worked on some things)
 
-**Today's Progress**: Worked on some basic programming problems.
+**Today's Progress**: Updated dev dependencies  
+☐ Worked on some basic programming problems.  
+☐ Created a Kaggle account and finished the Hello, Seaborn Tutorial
 
 **Thoughts** Been quite busy lately.
 
@@ -367,3 +369,4 @@
 1. [Problem 1](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/F1.c)  
 2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/F2.c)
 3. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/F3.c)
+4. [Hello, Seaborn](https://www.kaggle.com/quantportal/hello-seaborn-tutorial)
