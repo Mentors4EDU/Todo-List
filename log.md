@@ -370,3 +370,21 @@
 2. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/F2.c)
 3. [Problem 2](https://github.com/Mentors4EDU/C-Programming-Portfolio/blob/master/Problems/F3.c)
 4. [Hello, Seaborn](https://www.kaggle.com/quantportal/hello-seaborn-tutorial)
+
+### Day 42: September 29, 2020 (Day 42)
+##### (Published preprint)
+
+**Today's Progress**: Updated dev dependency + finished and published preprint
+
+**Thoughts** Day has been hectic
+
+**Link to work:** [Preprint](https://engrxiv.org/3nwsc/)
+
+### Day 43: September 30, 2020 (Day 43)
+##### (Released Decentralized-Internet v5.3.5)
+
+**Today's Progress**: Released Decentralized-Internet v5.3.5 (minor)
+
+**Thoughts** Been quite busy lately, working on many things and projects. Trying to tie it all together.
+
+**Link to work:** [Minor Update](https://www.npmjs.com/package/decentralized-internet/v/5.3.5)
