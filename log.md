@@ -388,3 +388,45 @@
 **Thoughts** Been quite busy lately, working on many things and projects. Trying to tie it all together.
 
 **Link to work:** [Minor Update](https://www.npmjs.com/package/decentralized-internet/v/5.3.5)
+
+### Day 44: October 1, 2020 (Day 44)
+##### (Update day)
+
+**Today's Progress**: Updated dev depencencies, worked on some problems.
+
+**Thoughts** Busy and still hectic day.
+
+### Day 45: October 2, 2020 (Day 45)
+##### (Better looking day)
+
+**Today's Progress**: Update dev dependencies
+
+**Thoughts** Day looking up and been planning progress incrementally
+
+### Day 46: October 3, 2020 (Day 46)
+##### (Updated dev dependencies)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts** Taking a break today
+
+### Day 47: October 4, 2020 (Day 47)
+##### (Updated dev dependencies)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts** Taking a break today
+
+### Day 48: October 5, 2020 (Day 48)
+##### (Worked on some posts)
+
+**Today's Progress**: Updated dev dependencies, worked on some blockchain-related blog posts.
+
+**Thoughts** Waiting for these to go through, proposing some big projects.
+
+### Day 49: October 6, 2020  (Day 49)
+##### (Another day)
+
+**Today's Progress**: Updated dev dependencies
+
+**Thoughts**
