@@ -429,8 +429,11 @@
 
 **Today's Progress**: Updated dev dependencies
 
-**Thoughts**
+**Thoughts**: Day was decent to say the least
 
 ### Days 50 to 56: October 13, 2020
 
 **Progress**: Been quite busy with research, launching some things, updated dev dependencies, did analytical case studies.
+
+
+**Thoughts**: Going to kick things up a notch
