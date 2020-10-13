@@ -29,4 +29,4 @@ Projects todo list (Markup)
 
 ☐ Continuous SWOT analysis and Risk Management
 
-☐ Create realistic expectations for growth correlations and projections
+~~🗹 Create realistic expectations for growth correlations and projections~~
