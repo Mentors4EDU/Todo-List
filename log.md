@@ -436,3 +436,5 @@
 **Progress**: Been quite busy with research, launching some things, updated dev dependencies, did analytical case studies
 
 **Thoughts**: Going to kick things up a notch; under lots of pressure. Motivated.
+
+Log updates coming soon. Progress being done
