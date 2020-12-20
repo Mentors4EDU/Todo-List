@@ -438,3 +438,6 @@
 **Thoughts**: Going to kick things up a notch; under lots of pressure. Motivated.
 
 Log updates coming soon. Progress being done
+
+### Days 56 to 100: November 27
+I stopped participating the 100s day of code challenge in the traditional sense. I been so busy coding and logged less to focus on some more important areas of development such as numerous software releases, practicing new skills, and various research papers and topics. I think I just needed a nudge. My productivity been alot lately, and I may try this again.
