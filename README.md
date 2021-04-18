@@ -9,7 +9,7 @@ Projects todo list (Markup)
 
 ~~🗹 Build analytical case studies~~
 
-~~☐ Create go-to market strategy~~
+~~🗹 Create go-to market strategy~~
 
 ☐ Establish mission plans & KPIs
 
@@ -23,7 +23,7 @@ Projects todo list (Markup)
 
 ☐ Coninuous consumer discovery + A/B Testing
 
-~~☐ Establish a Total Quality Management System~~
+~~🗹 Establish a Total Quality Management System~~
 
 ☐ Implement user monetization & retention strategy
 
