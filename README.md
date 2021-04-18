@@ -1,5 +1,5 @@
 # To-do List
-Projects todo list (Markup)
+Projects to-do list (Markup)
 
 ☐ Integrate SCRUM
 
