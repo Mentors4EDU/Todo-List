@@ -1,6 +1,8 @@
 # To-do List
 Projects to-do list (Markup)
 
+☐ Business plans
+
 ☐ Integrate SCRUM
 
 ☐ "Fish Bowl" Analysis
