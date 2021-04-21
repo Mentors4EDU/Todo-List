@@ -1,7 +1,7 @@
 # To-do List
 Projects to-do list (Markup)
 
--[] Integrate SCRUM
+-[ ] Integrate SCRUM
 
 ☐ "Fish Bowl" Analysis
 
