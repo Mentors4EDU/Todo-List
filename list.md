@@ -13,7 +13,7 @@ Projects to-do list (Markup)
 
 ~~🗹 Create go-to market strategy~~
 
-☐ Establish mission plans & KPIs
+~~☐ Establish mission plans & KPIs~~
 
 ~~🗹 Establish Competitive Advantage~~
 
